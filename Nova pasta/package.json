@@ -1,0 +1,10 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node teste.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+} 
